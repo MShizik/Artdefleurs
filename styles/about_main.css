@@ -23,12 +23,13 @@
 
 .image_container {
     background-color: none;
-    background-image: url(../images/flowers_garden.png);
+    background-image:url(../images/flowers_garden.png);
     background-repeat:no-repeat;
     background-position:center center;
     background-size:cover;
     grid-area: image;
 }
+
 
 .image_description {
     justify-content: center;
